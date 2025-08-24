@@ -1,1 +1,1 @@
-# Finance-Comapanion
+# Finance-Companion
